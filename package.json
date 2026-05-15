@@ -1,0 +1,13 @@
+{
+  "name": "antigravity-power-sovereign",
+  "version": "1.0.0",
+  "description": "The Sovereign Engine of Creation",
+  "private": true,
+  "workspaces": [
+    "modules/*"
+  ],
+  "scripts": {
+    "manager": "npm run dev --workspace=modules/manager",
+    "engine": "npm run dev --workspace=modules/engine"
+  }
+}
