@@ -1,116 +1,123 @@
-# 🌌 Antigravity Power: The Sovereign Engine of Creation
+# 🛡️ Aegis
+
+<h2 align="center">Production-Grade Skill System for AI Coding Agents</h2>
 
 <p align="center">
-  <img src="AntigravityManager/docs/assets/logo.png" alt="Antigravity Power" width="160" height="160" />
-</p>
-
-<h2 align="center">The Ultimate Agentic Development Suite</h2>
-
-<p align="center">
-  <strong>Flawless project lifecycle management from inception to deployment.</strong>
+  <em>Created by <strong>Krish Ujeniya</strong></em>
 </p>
 
 <p align="center">
-  <a href="#-the-four-pillars">Pillars of Power</a> •
-  <a href="#-the-flawless-workflow">The Flawless Cycle</a> •
-  <a href="#-ecosystem-components">Components</a> •
-  <a href="#-quick-start">Summoning Guide</a>
+  <a href="#-the-5-gate-workflow">5-Gate Workflow</a> •
+  <a href="#-skill-library">Skill Library</a> •
+  <a href="#-expert-team">Expert Team</a> •
+  <a href="#-quick-start">Quick Start</a>
 </p>
 
 ---
 
-## ✨ The Vision
+## What is Aegis?
 
-**Antigravity Power** is not merely a tool—it is the convergence of elite account management, specialized agentic intelligence, and disciplined workflow engineering. By unifying the **Manager**, **Skills**, **Workflows**, and **Project Engine**, we provide a sovereign environment where ideas transition into production-grade reality without friction.
+Aegis is a skills-only infrastructure that makes AI coding agents operate as a full development team — from CEO to DevOps engineer. No runtime. No installations. No frameworks. Just markdown skill files that any agent can load.
 
----
-
-## 🏛️ The Four Pillars
-
-| Pillar | Essence | Key Capability |
-| :--- | :--- | :--- |
-| **The Navigator** | [Antigravity Manager](./AntigravityManager) | Infinite account pools, smart auto-switching, and local API proxies. |
-| **The Library** | [Awesome Skills](./antigravity-awesome-skills-main) | 1,500+ specialized playbooks for architecture, coding, and security. |
-| **The Master Plan** | [Workflows](./antigravity-workflows) | Stack-agnostic, question-driven processes that adapt to your intent. |
-| **The Engine** | [Project Starter](./antigravity-project-starter) | 5-Gate OpenSpec development fueled by O(1) AST intelligence. |
+### Capabilities
+- **1,600+ skills** covering the complete software development lifecycle
+- **8 expert role agents** — PM, PO, Architect, Engineer, DevOps, QA Lead, QA Tester, Orchestrator
+- **11 quality guardrails** enforced automatically
+- **Filesystem-based state machine** for fault-tolerant, cross-session execution
+- **Token-efficient codebase indexing** via pure-bash AST packer
 
 ---
 
-## 🔄 The Flawless Workflow (5-Gate OpenSpec)
+## 🔄 The 5-Gate Workflow
 
-Our ecosystem enforces a disciplined, spec-driven development cycle that ensures quality at every layer.
-
-```mermaid
-graph TD
-    A[Idea / Trigger] --> G1[GATE 1: UNDERSTAND]
-    G1 -->|Research & Memory| G2[GATE 2: ANALYZE]
-    G2 -->|Risk & Impact Assessment| G3[GATE 3: PLAN]
-    G3 -->|OpenSpec Proposal| G4[GATE 4: IMPLEMENT]
-    G4 -->|Surgical O-1 Code Application| G5[GATE 5: VERIFY]
-    G5 -->|Testing & Memory Save| End[Production Reality]
-    
-    subgraph "The Intelligence Layer"
-    G1 -.->|NotebookLM| G1
-    G4 -.->|jCodeMunch| G4
-    end
+```
+IDEA → UNDERSTAND → ANALYZE → PLAN → IMPLEMENT → VERIFY → PRODUCTION
 ```
 
+| Gate | Purpose | Expert Lead | Key Skills |
+|------|---------|------------|------------|
+| **UNDERSTAND** | Explore intent, gather requirements | 🎯 CEO | brainstorming, openspec-explore |
+| **ANALYZE** | PRD, user stories, risk assessment | 📋 PM/PO | expert-product-manager, expert-product-owner |
+| **PLAN** | Architecture, ADRs, task plan | 🏗️ Architect | expert-tech-architect, writing-plans |
+| **IMPLEMENT** | TDD, clean code, parallel agents | 💻 Engineer | expert-dev, test-driven-development |
+| **VERIFY** | Evidence-based verification, audit | 🧪 QA | verification-before-completion, vibe-code-auditor |
+
 ---
 
-## 📦 Ecosystem Components
+## 📚 Skill Library
 
-### 🛡️ Antigravity Manager
-Professional desktop suite for managing Google Gemini & Claude accounts.
-- **Smart Switching**: Never hit a rate limit again; the manager rotates accounts automatically.
-- **Local Proxy**: OpenAI/Anthropic compatible local server for all your development tools.
+```
+library/
+├── aegis/                # 🎯 Orchestrator Hub
+│   ├── SKILL.md          # Master 5-Gate workflow controller
+│   ├── references/       # JIT-loaded gate protocols
+│   ├── templates/        # State machine templates
+│   └── scripts/          # AST packer & utilities
+│
+├── experts/              # 🏭 Expert Role Skills
+│   ├── skills/           # 50 role-specific agent skills
+│   └── rules/            # 11 quality guardrails
+│
+├── core/                 # 📦 Foundational Skills
+│   └── skills/           # 81 core workflow skills
+│
+├── community/            # 🌐 Community Skills
+│   └── skills/           # 1,459 community-contributed skills
+│
+└── seo/                  # 🔍 SEO Optimization
+    └── SKILL.md
+```
 
-### 📚 Antigravity Skills & Awesome Skills
-A massive, installable library of `SKILL.md` definitions.
-- **Breadth**: 1,459+ skills covering Full-Stack, DevOps, Security, and Product Management.
-- **Bundles**: Role-based starter packs (Web Wizard, Security Engineer, etc.).
+| Category | Count |
+|----------|-------|
+| **Aegis Orchestrator** | 1 + 5 gate references |
+| **Expert Roles** | 50 |
+| **Quality Rules** | 11 |
+| **Core Skills** | 81 |
+| **Community Skills** | 1,459 |
+| **Total** | **1,600+** |
 
-### 🚀 Antigravity Workflows
-Intelligent scripts that teach the AI *how* to perform tasks.
-- **Stack-Agnostic**: Works with any framework (React, Vue, Go, Rust, etc.).
-- **Question-Driven**: The AI asks the right questions before touching your code.
+---
 
-### ⚙️ Antigravity Project Starter
-The high-performance core for large-scale codebases.
-- **jCodeMunch**: O(1) codebase retrieval—query symbols instead of reading files (saves 99% tokens).
-- **Continuity**: Persistent project memory and session tracking.
+## 👥 Expert Team
+
+| Role | Skill | Expertise |
+|------|-------|-----------|
+| 🎯 **CEO/Orchestrator** | `expert-orchestrator` | Complexity scoring, swarm coordination |
+| 📋 **Product Manager** | `expert-product-manager` | Vision, PRD, SaaS metrics |
+| 📋 **Product Owner** | `expert-product-owner` | User stories, acceptance criteria |
+| 🏗️ **Tech Architect** | `expert-tech-architect` | System design, ADRs, API/DB schema |
+| 💻 **Engineer** | `expert-dev` | SOLID, clean code, debugging |
+| 🚀 **DevOps** | `expert-devops` | CI/CD, Docker, K8s, Terraform |
+| 🧪 **QA Lead** | `expert-qa-engineer` | Test pyramid, coverage, QA gates |
+| 🧪 **QA Tester** | `expert-qa-test` | Playwright/Cypress, automation |
 
 ---
 
 ## ⚡ Quick Start
 
-### 1. Initialize the Sanctum
-The fastest way to empower your current workspace is via the Awesome Skills installer:
-
 ```bash
-# Default installation to ~/.gemini/antigravity/skills
-npx antigravity-awesome-skills
+# Point any AI coding agent at the orchestrator:
+# → library/aegis/SKILL.md
+
+# Token-efficient codebase understanding:
+./library/aegis/scripts/ast_packer.sh /path/to/project > .sovereign/ast_index.md
 ```
-
-### 2. Scaffold a New Reality
-To start a project using the full 5-Gate OpenSpec Engine:
-
-```bash
-# Navigate to your new project root
-npx antigravity-project-starter init
-```
-
-### 3. Summon the Manager
-Download the [Antigravity Manager](./AntigravityManager) binary to handle your account pools and API proxies.
 
 ---
 
-## 🤝 Contributing to the Power
+## 🔒 Human-in-the-Loop Policy
 
-We stand on the shoulders of giants. Contributions to any sub-realm (Skills, Workflows, or Manager) are welcome. Please refer to the specific `CONTRIBUTING.md` in each subdirectory.
+| Requires Human Approval | Fully Autonomous |
+|------------------------|-----------------|
+| ✅ Requirements confirmation | ❌ Code implementation |
+| ✅ Scope & priority approval | ❌ Test writing & execution |
+| ✅ Architecture decisions | ❌ Debugging & fixing |
+| ✅ Production deployment | ❌ Git operations |
+| ✅ Legal/financial/personal data | ❌ CI/CD configuration |
 
 ---
 
 <p align="center">
-  <em>Build faster. Build smarter. Defy gravity.</em><br>
-  <strong>Made with ❤️ for the Antigravity Community</strong>
+  <strong>Aegis — by Krish Ujeniya</strong>
 </p>

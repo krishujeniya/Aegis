@@ -1,13 +1,14 @@
 {
-  "name": "antigravity-power-sovereign",
-  "version": "1.0.0",
-  "description": "The Sovereign Engine of Creation",
+  "name": "aegis",
+  "version": "2.0.0",
+  "description": "Aegis: Production-grade skill system for autonomous AI coding agents",
   "private": true,
-  "workspaces": [
-    "modules/*"
+  "keywords": [
+    "aegis",
+    "ai-agent",
+    "skills",
+    "autonomous-development"
   ],
-  "scripts": {
-    "manager": "npm run dev --workspace=modules/manager",
-    "engine": "npm run dev --workspace=modules/engine"
-  }
+  "author": "Krish Ujeniya",
+  "license": "MIT"
 }
