@@ -73,7 +73,7 @@ IDEA → [GATE 1: UNDERSTAND] → [GATE 2: ANALYZE] → [GATE 3: PLAN] → [GATE
 > 📖 Full protocol: `references/gate-3-plan.md`
 
 ### Gate 4: IMPLEMENT
-**Purpose**: Execute the plan with expert agents, write code, write tests.
+**Purpose**: Execute the plan with expert agents, write code, write tests in sandboxed environments.
 **Skills Invoked**:
 - `expert-dev` — Clean code implementation (SOLID, DRY)
 - `expert-devops` — CI/CD, Docker, infrastructure
@@ -81,7 +81,7 @@ IDEA → [GATE 1: UNDERSTAND] → [GATE 2: ANALYZE] → [GATE 3: PLAN] → [GATE
 - `dispatching-parallel-agents` — Fan-out independent work
 - `test-driven-development` — Red-Green-Refactor cycle
 - `systematic-debugging` — 4-phase root cause analysis
-- `using-git-worktrees` — Feature branch isolation
+- `cloud-sandbox-execution` — Ephemeral container isolation (Docker/Cloud VMs)
 
 **Deliverable**: Working code with tests
 **HITL Gate**: ❌ Autonomous (unless security/legal impact)
@@ -89,15 +89,16 @@ IDEA → [GATE 1: UNDERSTAND] → [GATE 2: ANALYZE] → [GATE 3: PLAN] → [GATE
 > 📖 Full protocol: `references/gate-4-implement.md`
 
 ### Gate 5: VERIFY
-**Purpose**: Verify everything works, review code, prepare for deployment.
+**Purpose**: Verify everything works, perform adversarial auditing, review code, prepare for deployment.
 **Skills Invoked**:
 - `verification-before-completion` — Evidence before claims
 - `expert-qa-engineer` — QA gate validation
+- `adversarial-red-team` — Active exploit auditing and vulnerability scanning
 - `requesting-code-review` — PR review checklist
 - `vibe-code-auditor` — Audit for structural flaws
 - `finishing-a-development-branch` — Merge/PR/cleanup workflow
 
-**Deliverable**: Verified, reviewed, merged code
+**Deliverable**: Verified, securely audited, reviewed, merged code
 **HITL Gate**: ✅ User approves production deployment
 
 > 📖 Full protocol: `references/gate-5-verify.md`
@@ -151,31 +152,33 @@ If no `state.json`: Start fresh from Gate 1.
 
 ---
 
-## Token Efficiency
+## Context Management & IDE Integration
 
-### AST Packer (Codebase Understanding)
+### 1M+ Token Support & AST Fallback
 
-Instead of reading entire files, use `scripts/ast_packer.sh` to extract structure:
+Aegis takes advantage of massive 1M+ token context windows natively available in 2026 frontier models. You may load entire application domains, microservices, or full context directly into memory. 
+
+For exceptionally massive monorepos where context scaling breaks down, use the `scripts/ast_packer.sh` fallback to extract structural representation:
 
 ```bash
 ./library/aegis/scripts/ast_packer.sh /path/to/project > .sovereign/ast_index.md
 ```
 
-This produces a compact representation (~2KB per 1000-line file) containing:
-- File tree with sizes
-- Function/class/method signatures (no bodies)
-- Import/dependency graph
-- TODO/FIXME markers
-
-### Context Budget Rules
+### Context Budget Rules (Modernized)
 
 | Context Element | Max Tokens | Strategy |
 |----------------|-----------|----------|
-| System prompt + skills | 4,000 | Fixed |
-| State files (.sovereign/) | 2,000 | Structured summary |
-| AST index | 3,000 | Compressed skeleton |
-| Active working files | 8,000 | Only files being edited |
+| System prompt + skills | 8,000 | Fixed |
+| State files (.sovereign/) | 10,000 | Comprehensive summary |
+| AST index / Knowledge | 50,000 | Semantic routing & skeletons |
+| Active working files | 100,000+ | Large scale multi-file contexts |
 | Conversation history | Remainder | Sliding window |
+
+### Agent-Native IDE & MCP Protocol
+
+Aegis is built to operate within Agent-Native IDEs (like Cursor, Windsurf, Antigravity).
+- **IDE Context Hook:** Pass visual state, terminal output, and editor history natively.
+- **MCP Standards:** Utilize Model Context Protocol (MCP) servers JIT for specialized data access (e.g., Jira, GitHub, Snowflake) replacing traditional bespoke tools.
 
 ### Progressive Disclosure
 
