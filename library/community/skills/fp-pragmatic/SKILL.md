@@ -4,7 +4,7 @@ description: A practical, jargon-free guide to functional programming - the 80/2
 risk: unknown
 source: community
 version: 1.0.0
-author: kadu
+author: "Krish Ujeniya"
 tags:
   - fp-ts
   - functional-programming

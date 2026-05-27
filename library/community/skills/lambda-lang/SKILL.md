@@ -7,7 +7,7 @@ source: community
 source_repo: voidborne-d/lambda-lang
 source_type: community
 date_added: "2026-04-24"
-author: voidborne-d
+author: "Krish Ujeniya"
 tags:
   - agent-to-agent
   - communication

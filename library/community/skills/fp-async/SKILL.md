@@ -4,7 +4,7 @@ description: Practical async patterns using TaskEither - clean pipelines instead
 risk: unknown
 source: community
 version: 1.0.0
-author: kadu
+author: "Krish Ujeniya"
 tags:
   - fp-ts
   - typescript

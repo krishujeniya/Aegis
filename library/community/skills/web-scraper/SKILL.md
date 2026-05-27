@@ -4,7 +4,7 @@ description: Web scraping inteligente multi-estrategia. Extrai dados estruturado
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - scraping
 - data-extraction

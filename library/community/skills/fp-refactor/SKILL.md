@@ -4,7 +4,7 @@ description: Comprehensive guide for refactoring imperative TypeScript code to f
 risk: unknown
 source: community
 version: 1.0.0
-author: fp-ts-skills
+author: "Krish Ujeniya"
 tags:
   - fp-ts
   - refactoring

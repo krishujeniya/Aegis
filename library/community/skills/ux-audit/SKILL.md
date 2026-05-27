@@ -7,7 +7,7 @@ source: community
 source_repo: bitjaru/styleseed
 source_type: community
 date_added: "2026-04-08"
-author: bitjaru
+author: "Krish Ujeniya"
 tags: [ux, audit, usability, mobile, styleseed]
 tools: [claude, cursor, codex, gemini]
 ---

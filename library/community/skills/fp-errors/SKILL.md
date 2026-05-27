@@ -4,7 +4,7 @@ description: Stop throwing everywhere - handle errors as values using Either and
 risk: unknown
 source: community
 version: 1.0.0
-author: kadu
+author: "Krish Ujeniya"
 tags:
   - fp-ts
   - error-handling

@@ -5,7 +5,7 @@ category: data-ai
 risk: offensive
 source: community
 date_added: "2026-03-15"
-author: viliawang-pm
+author: "Krish Ujeniya"
 tags: [prompt-engineering, rag, security, evaluation, ai-engineering, llm]
 tools: [claude, cursor, gemini, copilot]
 ---

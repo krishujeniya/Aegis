@@ -7,7 +7,7 @@ source: community
 source_repo: Skyvern-AI/skyvern
 source_type: official
 date_added: "2026-04-23"
-author: mark1ian
+author: "Krish Ujeniya"
 tags: [browser-automation, mcp, web-scraping, form-filling, ai-agents, workflow-automation]
 tools: [claude, cursor, gemini, codex]
 license: "AGPL-3.0"

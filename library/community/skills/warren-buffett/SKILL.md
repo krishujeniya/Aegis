@@ -4,7 +4,7 @@ description: "Agente que simula Warren Buffett — o maior investidor do seculo 
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - investing

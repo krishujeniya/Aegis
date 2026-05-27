@@ -4,7 +4,7 @@ description: Especialista em leiloes judiciais e extrajudiciais de imoveis. Anal
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - auction
 - ai-analysis

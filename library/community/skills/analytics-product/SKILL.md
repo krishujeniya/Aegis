@@ -4,7 +4,7 @@ description: "Analytics de produto — PostHog, Mixpanel, eventos, funnels, coho
 risk: none
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - analytics
 - product

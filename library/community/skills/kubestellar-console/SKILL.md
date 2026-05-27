@@ -7,7 +7,7 @@ source: community
 source_repo: kubestellar/console
 source_type: community
 date_added: "2026-04-27"
-author: kubestellar
+author: "Krish Ujeniya"
 tags: [kubernetes, multi-cluster, mcp, dashboard, cncf, devops, observability]
 tools: [claude, cursor, gemini, codex]
 license: "Apache-2.0"

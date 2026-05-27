@@ -4,7 +4,7 @@ description: Analise de mercado imobiliario para leiloes. Liquidez, desagio tipi
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - market-analysis
 - real-estate

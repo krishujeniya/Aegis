@@ -9,7 +9,7 @@ source_type: official
 license: "Not declared"
 license_source: "https://github.com/BuyWhere/buywhere-mcp"
 date_added: "2026-04-29"
-author: BuyWhere
+author: "Krish Ujeniya"
 tags: [buywhere, ecommerce, shopping, mcp, api, product-catalog]
 tools: [claude, cursor, codex, gemini]
 ---

@@ -3,7 +3,7 @@ name: ssh-penetration-testing
 description: "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security."
 risk: offensive
 source: community
-author: zebbern
+author: "Krish Ujeniya"
 date_added: "2026-02-27"
 ---
 

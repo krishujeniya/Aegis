@@ -5,7 +5,7 @@ category: "front-end"
 risk: "safe"
 source: "community"
 date_added: "2026-03-18"
-author: "alirezarezvani"
+author: "Krish Ujeniya"
 tags: ["nextjs", "react", "tailwind", "landing-page", "marketing", "seo", "cro"]
 tools: ["claude", "cursor", "gemini"]
 ---

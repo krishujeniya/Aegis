@@ -4,7 +4,7 @@ description: "Conselho de especialistas — consulta multiplos agentes do ecossi
 risk: none
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - multi-agent
 - advisory

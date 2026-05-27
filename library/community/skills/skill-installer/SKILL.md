@@ -4,7 +4,7 @@ description: Instala, valida, registra e verifica novas skills no ecossistema. 1
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - skill-management
 - deployment

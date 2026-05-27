@@ -4,7 +4,7 @@ description: "Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - startups

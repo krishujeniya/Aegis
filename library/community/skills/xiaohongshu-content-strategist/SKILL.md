@@ -7,7 +7,7 @@ source: community
 source_repo: demo112/yunqu-ai-skills
 source_type: community
 date_added: "2026-05-13"
-author: yundu-ai
+author: "Krish Ujeniya"
 tags: [xiaohongshu, chinese-market, content-strategy, social-media, marketing, 红书, 小红书]
 tools: [claude, cursor, gemini]
 ---

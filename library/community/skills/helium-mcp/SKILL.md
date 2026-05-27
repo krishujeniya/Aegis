@@ -6,7 +6,7 @@ source: "https://heliumtrades.com/mcp-page/"
 source_repo: connerlambden/helium-mcp
 source_type: community
 date_added: "2026-04-13"
-author: connerlambden
+author: "Krish Ujeniya"
 tags: [mcp, news, media-bias, stocks, options, finance, research]
 tools: [claude, cursor, gemini]
 ---

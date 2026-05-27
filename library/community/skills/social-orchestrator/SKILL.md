@@ -4,7 +4,7 @@ description: "Orquestrador unificado de canais sociais — coordena Instagram, T
 risk: critical
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - social-media
 - cross-channel

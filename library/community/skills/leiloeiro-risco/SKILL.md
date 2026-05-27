@@ -4,7 +4,7 @@ description: Analise de risco em leiloes de imoveis. Score 36 pontos, riscos jur
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - risk-analysis
 - scoring

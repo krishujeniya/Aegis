@@ -5,7 +5,7 @@ category: ai-research
 risk: safe
 source: community
 date_added: "2026-03-20"
-author: FrancyJGLisboa
+author: "Krish Ujeniya"
 tags: [ai, knowledge-extraction, domain-specific, data-moat, mcp, reference-data]
 tools: [claude, cursor, codex, copilot]
 ---

@@ -3,7 +3,7 @@ name: red-team-tools
 description: "Implement proven methodologies and tool workflows from top security researchers for effective reconnaissance, vulnerability discovery, and bug bounty hunting. Automate common tasks while maintaining thorough coverage of attack surfaces."
 risk: offensive
 source: community
-author: zebbern
+author: "Krish Ujeniya"
 date_added: "2026-02-27"
 ---
 

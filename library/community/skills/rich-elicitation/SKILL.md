@@ -6,7 +6,7 @@ risk: none
 source: self
 source_type: self
 date_added: "2026-05-07"
-author: abubakar
+author: "Krish Ujeniya"
 tags: [elicitation, clarifying-questions, ambiguity, multi-round, prompt-engineering]
 tools: [antigravity]
 ---

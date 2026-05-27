@@ -5,7 +5,7 @@ category: development
 risk: safe
 source: https://github.com/olgasafonova/SkillCheck-Free
 date_added: "2026-03-11"
-author: olgasafonova
+author: "Krish Ujeniya"
 tags: [validation, linter, agentskills, skill-authoring, code-quality]
 tools: [claude, cursor, windsurf, codex-cli]
 license: MIT

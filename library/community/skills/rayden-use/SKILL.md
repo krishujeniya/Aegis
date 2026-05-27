@@ -6,7 +6,7 @@ risk: safe
 source: https://github.com/playbookTV/rayden-ui-design-skill
 source_type: community
 date_added: 2026-04-10
-author: Leslie Williams
+author: "Krish Ujeniya"
 tags: figma, design-system, ui, components, mcp, rayden, rayna-ui
 tools: mcp__claude_ai_Figma__use_figma, mcp__claude_ai_Figma__get_screenshot, mcp__claude_ai_Figma__whoami, Read
 ---

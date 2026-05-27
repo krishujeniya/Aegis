@@ -4,7 +4,7 @@ description: "Matemático ultra-avançado inspirado em Terence Tao. Análise rig
 risk: none
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - mathematics
 - code-analysis

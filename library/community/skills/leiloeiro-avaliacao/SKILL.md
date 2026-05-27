@@ -4,7 +4,7 @@ description: Avaliacao pericial de imoveis em leilao. Valor de mercado, liquidac
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - real-estate
 - valuation

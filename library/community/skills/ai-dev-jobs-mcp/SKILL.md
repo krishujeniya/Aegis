@@ -6,7 +6,7 @@ risk: safe
 source: "https://aidevboard.com"
 source_type: community
 date_added: "2026-04-16"
-author: unitedideas
+author: "Krish Ujeniya"
 tags: [mcp, jobs, ai-jobs, ml-jobs, recruiting, job-search, career]
 tools: [claude, cursor, gemini]
 ---

@@ -7,7 +7,7 @@ source: community
 source_repo: MetcalfSolutions/Satori
 source_type: community
 date_added: "2026-04-06"
-author: MetcalfSolutions
+author: "Krish Ujeniya"
 tags: [mental-health, psychology, wisdom, philosophy, ifs, stoicism, jungian, conversation]
 tools: [claude]
 ---

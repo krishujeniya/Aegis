@@ -7,7 +7,7 @@ source: self
 source_repo: Kench001/antigravity-awesome-skills
 source_type: self
 date_added: "2026-05-03"
-author: Kench001
+author: "Krish Ujeniya"
 tags: [efficiency, token-optimization, brevity, context-management]
 tools: [claude, cursor, gemini]
 # Optional: declare the upstream license if source_repo is set

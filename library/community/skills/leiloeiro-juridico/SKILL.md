@@ -4,7 +4,7 @@ description: 'Analise juridica de leiloes: nulidades, bem de familia, alienacao 
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - legal
 - auction-law

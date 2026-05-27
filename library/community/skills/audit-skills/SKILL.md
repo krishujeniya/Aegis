@@ -5,7 +5,7 @@ category: security
 risk: safe
 source: community
 date_added: "2026-03-07"
-author: MAIOStudio
+author: "Krish Ujeniya"
 tags: [security, audit, skills, bundles, cross-platform]
 tools: [claude, gemini, gpt, llama, mistral, etc]
 ---

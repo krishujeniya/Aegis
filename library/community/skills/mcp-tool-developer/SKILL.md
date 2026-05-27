@@ -7,7 +7,7 @@ source: community
 source_repo: demo112/yunqu-ai-skills
 source_type: community
 date_added: "2026-05-13"
-author: yundu-ai
+author: "Krish Ujeniya"
 tags: [mcp, ai-agent, tool-development, typescript, python, llm, model-context-protocol]
 tools: [claude, cursor, gemini]
 ---

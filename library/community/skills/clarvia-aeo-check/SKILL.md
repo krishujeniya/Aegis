@@ -5,7 +5,7 @@ category: tool-quality
 risk: safe
 source: community
 date_added: "2026-03-27"
-author: digitamaz
+author: "Krish Ujeniya"
 tags: [mcp, aeo, tool-quality, agent-readiness, api-scoring, clarvia]
 tools: [claude, cursor, windsurf, cline]
 ---

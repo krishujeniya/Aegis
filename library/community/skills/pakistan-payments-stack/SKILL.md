@@ -5,7 +5,7 @@ category: api-integration
 risk: safe
 source: community
 date_added: "2026-03-07"
-author: community-contributor
+author: "Krish Ujeniya"
 tags: [saas, payments, pakistan, nextjs, b2b, pkr, reconciliation]
 tools: [cursor, claude, gemini]
 ---

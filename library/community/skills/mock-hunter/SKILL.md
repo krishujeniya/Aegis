@@ -7,7 +7,7 @@ source: community
 source_repo: CodeShuX/mockhunter
 source_type: community
 date_added: "2026-05-07"
-author: CodeShuX
+author: "Krish Ujeniya"
 tags: [testing, qa, playwright, mock-detection, web-audit, ai-testing, vibe-coding, claude-code]
 tools: [claude]
 license: "MIT"

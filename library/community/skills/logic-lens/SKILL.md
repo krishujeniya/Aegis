@@ -9,7 +9,7 @@ source_type: community
 license: "MIT"
 license_source: "https://github.com/hyhmrright/logic-lens/blob/main/LICENSE"
 date_added: "2026-04-29"
-author: hyhmrright
+author: "Krish Ujeniya"
 tags: [code-review, logic-analysis, debugging, security-review, claude-code]
 tools: [claude, codex, cursor, gemini]
 ---

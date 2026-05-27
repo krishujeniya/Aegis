@@ -4,7 +4,7 @@ description: "The AI native file format. EXIF for AI — stamps every file with 
 risk: safe
 source: community
 date_added: "2026-03-27"
-author: HMAKT99
+author: "Krish Ujeniya"
 tags:
 - trust
 - metadata

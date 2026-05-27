@@ -7,7 +7,7 @@ source: community
 source_repo: openclaw/skills
 source_type: community
 date_added: "2026-04-15"
-author: jiawei248
+author: "Krish Ujeniya"
 tags: [creative, gift, personalization, h5, image-generation, video-generation, relationship]
 tools: [openclaw]
 license: "MIT-0"

@@ -7,7 +7,7 @@ source: community
 source_repo: tellmefrankie/news-engine
 source_type: community
 date_added: "2026-05-13"
-author: tellmefrankie
+author: "Krish Ujeniya"
 tags: [news, rss, sentiment-analysis, briefing, research]
 tools: [claude, websearch]
 ---

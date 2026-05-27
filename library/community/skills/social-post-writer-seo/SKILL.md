@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-17"
-author: WHOISABHISHEKADHIKARI
+author: "Krish Ujeniya"
 tags: [social-media, marketing, content-writing, seo, growth]
 tools: [claude, cursor, gemini]
 version: 1.0.1

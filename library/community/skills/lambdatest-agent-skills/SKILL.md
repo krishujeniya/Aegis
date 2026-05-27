@@ -7,7 +7,7 @@ source: community
 source_repo: LambdaTest/agent-skills
 source_type: community
 date_added: "2026-04-16"
-author: tanveer-farooq
+author: "Krish Ujeniya"
 tags: [testing, test-automation, e2e, unit-testing, mobile-testing, bdd, selenium, playwright, cypress, jest, pytest, appium, lambdatest]
 tools: [claude, cursor, gemini, copilot]
 license: "MIT"

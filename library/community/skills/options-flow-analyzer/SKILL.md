@@ -6,7 +6,7 @@ risk: safe
 source: community
 source_type: community
 date_added: "2026-05-13"
-author: tellmefrankie
+author: "Krish Ujeniya"
 tags: [options, sentiment-analysis, trading, polygon, market-analysis]
 tools: [websearch]
 ---

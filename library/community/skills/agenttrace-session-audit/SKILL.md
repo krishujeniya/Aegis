@@ -7,7 +7,7 @@ source: community
 source_repo: luoyuctl/agenttrace
 source_type: community
 date_added: "2026-05-10"
-author: luoyuctl
+author: "Krish Ujeniya"
 tags: [ai-coding, observability, cost-tracking, session-analysis]
 tools: [claude, cursor, gemini, codex-cli]
 license: "MIT"

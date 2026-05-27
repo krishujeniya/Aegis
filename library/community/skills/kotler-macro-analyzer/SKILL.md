@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-17"
-author: justmiroslav
+author: "Krish Ujeniya"
 tags: [marketing, economics, strategy, kotler, pestel]
 tools: [claude, cursor]
 ---

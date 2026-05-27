@@ -4,7 +4,7 @@ description: Coleta e consulta dados de leiloeiros oficiais de todas as 27 Junta
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - scraping
 - brazilian-data

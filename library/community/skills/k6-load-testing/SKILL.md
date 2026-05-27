@@ -5,7 +5,7 @@ category: testing
 risk: safe
 source: community
 date_added: "2026-03-13"
-author: Kairo Official
+author: "Krish Ujeniya"
 tags: [k6, load-testing, performance, api-testing, ci-cd]
 tools: [claude, cursor, gemini]
 ---

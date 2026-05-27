@@ -7,7 +7,7 @@ source: community
 source_repo: fruitwyatt/puzzle-activity-planner
 source_type: community
 date_added: "2026-04-11"
-author: fruitwyatt
+author: "Krish Ujeniya"
 tags: [education, puzzle, classroom, activity-planning, event]
 tools: [claude, cursor, gemini, codex]
 ---

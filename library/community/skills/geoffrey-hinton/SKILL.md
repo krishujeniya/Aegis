@@ -4,7 +4,7 @@ description: "Agente que simula Geoffrey Hinton — Godfather of Deep Learning, 
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - deep-learning

@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-13"
-author: WHOISABHISHEKADHIKARI
+author: "Krish Ujeniya"
 tags: [linkedin, branding, career, growth, personal-brand]
 tools: [claude, cursor, gemini, antigravity]
 ---

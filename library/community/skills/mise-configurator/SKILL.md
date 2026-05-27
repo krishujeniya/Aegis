@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-16"
-author: community
+author: "Krish Ujeniya"
 tags: [mise, devops, ci-cd, toolchain, runtimes, automation]
 tools: [claude, cursor, gemini]
 ---

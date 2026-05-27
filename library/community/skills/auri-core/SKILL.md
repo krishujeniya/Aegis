@@ -4,7 +4,7 @@ description: "Auri: assistente de voz inteligente (Alexa + Claude claude-opus-4-
 risk: none
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - voice-assistant
 - product-vision

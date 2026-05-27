@@ -5,7 +5,7 @@ category: ai-agents
 risk: safe
 source: community
 date_added: "2026-03-18"
-author: suhaibjanjua
+author: "Krish Ujeniya"
 tags: [pydantic-ai, ai-agents, llm, openai, anthropic, gemini, tool-use, structured-output, python]
 tools: [claude, cursor, gemini]
 ---

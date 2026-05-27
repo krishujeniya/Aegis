@@ -4,7 +4,7 @@ description: "CISO operacional enterprise para gestao total de credenciais e seg
 risk: critical
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - credentials
 - secrets

@@ -5,7 +5,7 @@ category: backend
 risk: safe
 source: community
 date_added: "2026-03-18"
-author: suhaibjanjua
+author: "Krish Ujeniya"
 tags: [hono, edge, cloudflare-workers, bun, deno, api, typescript, web-standards]
 tools: [claude, cursor, gemini]
 ---

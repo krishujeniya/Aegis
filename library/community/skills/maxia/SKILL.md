@@ -4,7 +4,7 @@ description: Connect to MAXIA AI-to-AI marketplace on Solana. Discover, buy, sel
 risk: unknown
 source: community
 tags: [solana, crypto, marketplace, ai-agents, mcp, defi, usdc, web3, a2a]
-author: MAXIA
+author: "Krish Ujeniya"
 version: 1.0.0
 homepage: https://maxiaworld.app
 ---

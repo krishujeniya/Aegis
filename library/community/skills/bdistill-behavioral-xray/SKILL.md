@@ -5,7 +5,7 @@ category: ai-testing
 risk: safe
 source: community
 date_added: "2026-03-20"
-author: FrancyJGLisboa
+author: "Krish Ujeniya"
 tags: [ai, testing, behavioral-analysis, model-evaluation, red-team, compliance, mcp]
 tools: [claude, cursor, codex, copilot]
 ---

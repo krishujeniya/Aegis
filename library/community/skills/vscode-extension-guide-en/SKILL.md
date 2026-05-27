@@ -7,7 +7,7 @@ source: community
 source_repo: lewiswigmore/agent-skills
 source_type: community
 date_added: "2026-04-12"
-author: lewiswigmore
+author: "Krish Ujeniya"
 tags: [vscode, extension, ide, typescript, marketplace]
 tools: [claude, cursor, copilot, codex, gemini]
 ---

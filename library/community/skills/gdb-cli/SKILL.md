@@ -5,7 +5,7 @@ category: development
 risk: critical
 source: community
 date_added: "2026-03-22"
-author: Cerdore
+author: "Krish Ujeniya"
 tags:
 - debugging
 - gdb

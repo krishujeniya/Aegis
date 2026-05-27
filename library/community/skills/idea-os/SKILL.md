@@ -7,7 +7,7 @@ source: community
 source_repo: Slashworks-biz/idea-os
 source_type: community
 date_added: "2026-04-18"
-author: Slashworks-biz
+author: "Krish Ujeniya"
 tags: [product-management, prd, market-research, mvp, idea-validation, jtbd, swot, competitor-analysis, founder, non-technical]
 tools: [claude, cursor, gemini]
 license: "MIT"

@@ -3,7 +3,7 @@ name: shodan-reconnaissance
 description: "Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements."
 risk: unknown
 source: community
-author: zebbern
+author: "Krish Ujeniya"
 date_added: "2026-02-27"
 ---
 

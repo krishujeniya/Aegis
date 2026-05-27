@@ -4,7 +4,7 @@ description: "Agente que simula Bill Gates — cofundador da Microsoft, arquitet
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - business-strategy

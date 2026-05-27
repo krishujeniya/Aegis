@@ -9,7 +9,7 @@ source_type: community
 license: "Apache-2.0"
 license_source: "https://github.com/flyingsquirrel0419/squirrel-skill/blob/main/LICENSE"
 date_added: "2026-04-29"
-author: flying_squirrel__
+author: "Krish Ujeniya"
 tags: [development, testing, planning, code-review, documentation, ci-cd]
 tools: [claude, cursor, codex, antigravity, gemini, windsurf, opencode, copilot]
 ---

@@ -4,7 +4,7 @@ description: Integracao completa com Instagram via Graph API. Publicacao, analyt
 risk: critical
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - social-media
 - instagram

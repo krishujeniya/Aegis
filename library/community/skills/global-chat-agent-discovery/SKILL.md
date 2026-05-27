@@ -7,7 +7,7 @@ source: community
 source_repo: pumanitro/global-chat
 source_type: community
 date_added: "2026-04-06"
-author: pumanitro
+author: "Krish Ujeniya"
 tags: [mcp, ai-agents, agent-discovery, agents-txt, a2a, developer-tools]
 tools: [claude, cursor, gemini, codex]
 ---

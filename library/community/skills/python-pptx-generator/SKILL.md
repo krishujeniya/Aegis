@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-06"
-author: spideyashith
+author: "Krish Ujeniya"
 tags: [python, powerpoint, python-pptx, presentations, slide-decks]
 tools: [claude, cursor, gemini, codex]
 ---

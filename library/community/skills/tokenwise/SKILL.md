@@ -7,7 +7,7 @@ source: community
 source_repo: CodeShuX/tokenwise
 source_type: community
 date_added: "2026-05-12"
-author: CodeShuX
+author: "Krish Ujeniya"
 tags: [model-routing, token-optimization, cost-reduction, anthropic, haiku, sonnet, opus, claude-code, ab-testing, measurement]
 tools: [claude]
 license: "MIT"

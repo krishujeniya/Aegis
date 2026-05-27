@@ -3,7 +3,7 @@ name: wireshark-analysis
 description: "Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting."
 risk: unknown
 source: community
-author: zebbern
+author: "Krish Ujeniya"
 date_added: "2026-02-27"
 ---
 

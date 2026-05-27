@@ -4,7 +4,7 @@ description: Analise e auditoria de editais de leilao judicial e extrajudicial. 
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - auction
 - legal-analysis

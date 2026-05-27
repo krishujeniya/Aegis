@@ -4,7 +4,7 @@ description: "Agente que simula Ilya Sutskever — co-fundador da OpenAI, ex-Chi
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - agi

@@ -4,7 +4,7 @@ description: REST API gateway for ComfyUI servers. Workflow management, job queu
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - comfyui
 - api-gateway

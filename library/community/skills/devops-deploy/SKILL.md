@@ -4,7 +4,7 @@ description: "DevOps e deploy de aplicacoes — Docker, CI/CD com GitHub Actions
 risk: critical
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - devops
 - docker

@@ -5,7 +5,7 @@ category: design
 risk: safe
 source: community
 date_added: "2026-04-03"
-author: uxuiprinciples
+author: "Krish Ujeniya"
 tags: [ux, ui, design, evaluation, principles, antipatterns, accessibility]
 tools: [claude, cursor, windsurf]
 ---

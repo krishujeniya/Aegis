@@ -7,7 +7,7 @@ source: community
 source_repo: aptratcn/skill-audit
 source_type: community
 date_added: "2026-05-01"
-author: aptratcn
+author: "Krish Ujeniya"
 tags: [security, audit, pre-install, malicious-detection, supply-chain]
 tools: [claude, cursor, codex, gemini, copilot]
 license: "MIT"

@@ -5,7 +5,7 @@ category: project-management
 risk: safe
 source: community
 date_added: "2026-03-10"
-author: Enreign
+author: "Krish Ujeniya"
 tags:
   - estimation
   - project-management

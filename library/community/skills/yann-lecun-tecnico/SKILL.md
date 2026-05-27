@@ -4,7 +4,7 @@ description: "Sub-skill técnica de Yann LeCun. Cobre CNNs, LeNet, backpropagati
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - cnn

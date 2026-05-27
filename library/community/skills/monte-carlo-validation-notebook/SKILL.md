@@ -7,7 +7,7 @@ source: community
 source_repo: monte-carlo-data/mc-agent-toolkit
 source_type: community
 date_added: "2026-04-08"
-author: monte-carlo-data
+author: "Krish Ujeniya"
 tags: [data-observability, validation, dbt, monte-carlo, sql-notebook]
 tools: [claude, cursor, codex]
 ---

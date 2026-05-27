@@ -7,7 +7,7 @@ source: community
 source_repo: demo112/yunqu-ai-skills
 source_type: community
 date_added: "2026-05-13"
-author: yundu-ai
+author: "Krish Ujeniya"
 tags: [wechat, chinese-market, content-strategy, marketing, 公众号, 微信]
 tools: [claude, cursor, gemini]
 ---

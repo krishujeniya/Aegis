@@ -7,7 +7,7 @@ source: community
 source_repo: commitshow/production-audit
 source_type: community
 date_added: "2026-05-04"
-author: commitshow
+author: "Krish Ujeniya"
 tags: [security, audit, production, vibe-coding, rls, webhook, stripe, supabase, mobile]
 tools: [claude, cursor, gemini, codex, antigravity]
 license: "MIT"

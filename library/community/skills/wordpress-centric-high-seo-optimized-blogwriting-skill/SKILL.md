@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-12"
-author: Whoisabhishekadhikari
+author: "Krish Ujeniya"
 tags: [writing, blog, seo, content, wordpress]
 tools: [claude, cursor, gemini]
 version: 1.0.3

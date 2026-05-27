@@ -6,7 +6,7 @@ risk: safe
 source: "https://nothumansearch.ai"
 source_type: community
 date_added: "2026-04-16"
-author: unitedideas
+author: "Krish Ujeniya"
 tags: [mcp, search, ai-discovery, api-discovery, mcp-verification, agent-tools]
 tools: [claude, cursor, gemini]
 ---

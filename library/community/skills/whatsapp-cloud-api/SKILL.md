@@ -4,7 +4,7 @@ description: Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templ
 risk: critical
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - messaging
 - whatsapp

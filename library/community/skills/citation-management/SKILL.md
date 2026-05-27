@@ -488,7 +488,7 @@ Always prioritize papers based on citation count, venue quality, and author repu
 **Advanced Operators** (full list in `references/google_scholar_search.md`):
 ```
 "exact phrase"           # Exact phrase matching
-author:lastname          # Search by author
+author: "Krish Ujeniya"
 intitle:keyword          # Search in title only
 source:journal           # Search specific journal
 -exclude                 # Exclude terms
@@ -502,7 +502,7 @@ OR                       # Alternative terms
 "CRISPR" intitle:review 2023..2024
 
 # Find papers by specific author on topic
-author:Church "synthetic biology"
+author: "Krish Ujeniya"
 
 # Find highly cited foundational work
 "deep learning" 2012..2015 sort:citations

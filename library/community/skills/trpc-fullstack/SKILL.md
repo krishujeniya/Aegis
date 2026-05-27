@@ -5,7 +5,7 @@ category: framework
 risk: none
 source: community
 date_added: "2026-03-17"
-author: suhaibjanjua
+author: "Krish Ujeniya"
 tags: [typescript, trpc, api, fullstack, nextjs, react, type-safety]
 tools: [claude, cursor, gemini]
 ---

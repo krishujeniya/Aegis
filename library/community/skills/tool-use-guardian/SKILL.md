@@ -5,7 +5,7 @@ category: reliability
 risk: safe
 source: community
 date_added: "2026-03-13"
-author: christopherlhammer11-ai
+author: "Krish Ujeniya"
 tags: [reliability, tool-use, error-handling, retries, recovery, agent-infrastructure]
 tools: [claude, cursor, codex, gemini, copilot, windsurf, antigravity]
 ---

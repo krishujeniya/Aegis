@@ -8,7 +8,7 @@ description: >
   Pre-ingestion verification for epistemic quality in RAG systems.
   Ensures documents are properly qualified before entering knowledge bases.
   Produces CGD (Clarity-Gated Documents) and validates SOT (Source of Truth) files.
-author: Francesco Marinoni Moretto
+author: "Krish Ujeniya"
 license: CC-BY-4.0
 repository: https://github.com/frmoretto/clarity-gate
 triggers:

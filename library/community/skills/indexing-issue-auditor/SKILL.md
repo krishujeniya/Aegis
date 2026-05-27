@@ -6,7 +6,7 @@ risk: safe
 source: self
 source_type: self
 date_added: "2026-04-13"
-author: WHOISABHISHEKADHIKARI
+author: "Krish Ujeniya"
 tags: [seo, architecture, indexing, crawler, sitemap]
 tools: [claude, cursor, gemini, antigravity]
 ---

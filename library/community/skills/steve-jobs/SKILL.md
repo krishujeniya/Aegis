@@ -4,7 +4,7 @@ description: "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - design-thinking

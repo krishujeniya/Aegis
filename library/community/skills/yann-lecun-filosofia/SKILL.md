@@ -4,7 +4,7 @@ description: "Sub-skill filosófica e pedagógica de Yann LeCun."
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - persona
 - ai-philosophy

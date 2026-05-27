@@ -4,7 +4,7 @@ description: "Integracao completa com Amazon Alexa para criar skills de voz inte
 risk: safe
 source: community
 date_added: '2026-03-06'
-author: renat
+author: "Krish Ujeniya"
 tags:
 - voice
 - alexa

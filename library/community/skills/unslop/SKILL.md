@@ -7,7 +7,7 @@ source: community
 source_repo: MohamedAbdallah-14/unslop
 source_type: community
 date_added: "2026-04-25"
-author: MohamedAbdallah-14
+author: "Krish Ujeniya"
 tags: [writing, content-quality, ai-writing, text-processing, cli, publishing]
 tools: [claude-code, cursor, gemini-cli, codex-cli, antigravity]
 license: "MIT"
